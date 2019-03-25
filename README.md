@@ -5,6 +5,7 @@
   4) COMPARING LAZY PORTFOLIOS
   5) Comparing ONLINE PORTFOLIO SELECTION algorithms on a diversified set of ETFs
   6) BUYING AND HOLDING SPY
+  7) Implementing CAPM, setting up an efficient frontier model, setting up basic bond pricing etc etc
 
 # SWENSEN: 
  This algorithm defines a long-only portfolio of 6 ETF's and rebalances all of 
